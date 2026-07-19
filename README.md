@@ -108,7 +108,7 @@ A distributed file system built with FUSE, exposing operations over RPC.
   </a>
 </p>
 
-<p align="center">🏅 <b>10+ AWS Certifications</b> in Cloud Computing</p>
+<p align="center">🏅 <b>35+ AWS Certifications</b> in Cloud Computing</p>
 
 <p align="center"><i>Click above to open the full certificate folder on Google Drive.</i></p>
 
