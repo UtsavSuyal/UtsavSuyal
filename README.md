@@ -40,18 +40,18 @@ I'm a **B.Tech Computer Science** student at **Graphic Era Hill University, Bhim
 <img src="https://davidhwilliams.github.io/skill-icons-plus/icons/TensorFlow-Dark.svg" height="28" valign="middle" alt="TensorFlow" /> <b>TensorFlow</b>
 <img src="https://davidhwilliams.github.io/skill-icons-plus/icons/OpenCV-Dark.svg" height="28" valign="middle" alt="OpenCV" /> <b>OpenCV</b>
 ![AWS](https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
-<img src="https://cdn.simpleicons.org/powerbi/F2C811" height="28" valign="middle" alt="Power BI" /> <b>Power BI</b>
+<b>Power BI</b>
 ![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000.svg?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101.svg?style=for-the-badge&logo=socketdotio&logoColor=white)
-<img src="https://davidhwilliams.github.io/skill-icons-plus/icons/Postman.svg" height="28" valign="middle" alt="Postman" /> <b>Postman</b>
+<b>Postman</b>
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black)
 ![Razorpay](https://img.shields.io/badge/Razorpay-0C2451.svg?style=for-the-badge&logo=razorpay&logoColor=white)
-<img src="https://cdn.simpleicons.org/openai/412991" height="28" valign="middle" alt="OpenAI API" /> <b>OpenAI API</b>
+<b>OpenAI API</b>
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
