@@ -1,11 +1,4 @@
-<p align="center">
-  <a href="https://github.com/UtsavSuyal">
-    <img src="https://images.unsplash.com/photo-1502134249126-9f3755a50d78?auto=format&fit=crop&q=80&w=2400" width="100%" alt="banner" />
-  </a>
-</p>
-
-<h1 align="center">Hey 👋, I'm Utsav Suyal</h1>
-<p align="center">B.Tech CSE '27 &nbsp;|&nbsp; Full-Stack • Data • ML &nbsp;|&nbsp; AWS Certified</p>
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=Hey%20👋,%20I'm%20Utsav%20Suyal&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=B.Tech%20CSE%20'27%20|%20Full-Stack%20•%20Data%20•%20ML%20|%20AWS%20Certified&descAlignY=55&descSize=18)](https://github.com/UtsavSuyal)
 
 <p align="center">
   <a href="https://github.com/UtsavSuyal">
@@ -34,29 +27,9 @@ I'm a **B.Tech Computer Science** student at **Graphic Era Hill University, Bhim
 
 ## 🛠️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,express,react,vite,tailwind,python,postgres,cpp,aws,git,github&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,express,react,vite,tailwind,python,postgres,mysql,tensorflow,aws,cpp,git,githubactions,vscode,figma&theme=dark)](https://skillicons.dev)
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+> Also working with: **OpenCV** • **JWT** • **Socket.io** • **Razorpay & OpenAI APIs** • **Postman** • **Power BI** • **LeetCode**
 
 ---
 
@@ -93,6 +66,8 @@ A distributed file system built with FUSE, exposing operations over RPC.
 - Python, XML-RPC
 
 
+
+
 ---
 
 ## 📊 GitHub Stats
@@ -118,7 +93,7 @@ A distributed file system built with FUSE, exposing operations over RPC.
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/utsav-suyal-a503571aa/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/utsav-suyal-a503571aa/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:utsavsuyal7@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/UtsavSuyal)
 
