@@ -71,7 +71,7 @@ I'm a **B.Tech Computer Science** student at **Graphic Era Hill University, Bhim
 Full-stack platform connecting restaurants with surplus food to customers, featuring dual restaurant/customer login and dynamic "rescue pricing."
 - Node.js, Express.js, MySQL, JWT, Socket.io, Razorpay, OpenAI API
 - React, Vite, Tailwind CSS with a custom design system
-
+- 🔗 Add your repo link here
 
 ### 📊 Customer Behaviour Analytics
 Data-driven dashboard uncovering customer purchasing patterns and behavioral insights.
@@ -96,7 +96,25 @@ Graph-based shortest path solver built for performance.
 ### 🗂️ FUSE Distributed File System
 A distributed file system built with FUSE, exposing operations over RPC.
 - Python, XML-RPC
+- 🔗 Add your repo link here
 
+> 💡 Still need the FeedForward and FUSE repo links — send those over and I'll drop them in.
+
+---
+
+## 📜 Certifications
+
+<p align="center">
+  <a href="https://drive.google.com/drive/folders/159hCPPbTeM9Kt2DD1kaNPuy5MrxRdNcB?usp=drive_link">
+    <img src="https://img.shields.io/badge/View_AWS_Certifications-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="AWS Certifications" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS_Certified-10%2B_Certifications-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="10+ AWS Certifications" />
+</p>
+
+<p align="center"><i>Click the badge above to view all certificates, hosted on Google Drive.</i></p>
 
 ---
 
