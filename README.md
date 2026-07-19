@@ -33,32 +33,32 @@ I'm a **B.Tech Computer Science** student at **Graphic Era Hill University, Bhim
 ![Express.js](https://img.shields.io/badge/Express.js-000000.svg?style=for-the-badge&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
+<img src="https://davidhwilliams.github.io/skill-icons-plus/icons/TailwindCSS-Dark.svg" height="28" valign="middle" alt="Tailwind CSS" /> <b>Tailwind CSS</b>
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white&v=2)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white&v=2)
+<img src="https://davidhwilliams.github.io/skill-icons-plus/icons/TensorFlow-Dark.svg" height="28" valign="middle" alt="TensorFlow" /> <b>TensorFlow</b>
+<img src="https://davidhwilliams.github.io/skill-icons-plus/icons/OpenCV-Dark.svg" height="28" valign="middle" alt="OpenCV" /> <b>OpenCV</b>
 ![AWS](https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black)
+<img src="https://cdn.simpleicons.org/powerbi/F2C811" height="28" valign="middle" alt="Power BI" /> <b>Power BI</b>
 ![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000.svg?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101.svg?style=for-the-badge&logo=socketdotio&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white&v=2)
+<img src="https://davidhwilliams.github.io/skill-icons-plus/icons/Postman.svg" height="28" valign="middle" alt="Postman" /> <b>Postman</b>
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black)
 ![Razorpay](https://img.shields.io/badge/Razorpay-0C2451.svg?style=for-the-badge&logo=razorpay&logoColor=white)
-![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991.svg?style=for-the-badge&logo=openai&logoColor=white)
+<img src="https://cdn.simpleicons.org/openai/412991" height="28" valign="middle" alt="OpenAI API" /> <b>OpenAI API</b>
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+<img src="https://davidhwilliams.github.io/skill-icons-plus/icons/Docker.svg" height="28" valign="middle" alt="Docker" /> <b>Docker</b>
 ![npm](https://img.shields.io/badge/npm-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
@@ -71,7 +71,7 @@ I'm a **B.Tech Computer Science** student at **Graphic Era Hill University, Bhim
 Full-stack platform connecting restaurants with surplus food to customers, featuring dual restaurant/customer login and dynamic "rescue pricing."
 - Node.js, Express.js, MySQL, JWT, Socket.io, Razorpay, OpenAI API
 - React, Vite, Tailwind CSS with a custom design system
-- 🔗 Add your repo link here
+  
 
 ### 📊 Customer Behaviour Analytics
 Data-driven dashboard uncovering customer purchasing patterns and behavioral insights.
@@ -96,9 +96,7 @@ Graph-based shortest path solver built for performance.
 ### 🗂️ FUSE Distributed File System
 A distributed file system built with FUSE, exposing operations over RPC.
 - Python, XML-RPC
-- 🔗 Add your repo link here
 
-> 💡 Still need the FeedForward and FUSE repo links — send those over and I'll drop them in.
 
 ---
 
@@ -106,15 +104,13 @@ A distributed file system built with FUSE, exposing operations over RPC.
 
 <p align="center">
   <a href="https://drive.google.com/drive/folders/159hCPPbTeM9Kt2DD1kaNPuy5MrxRdNcB?usp=drive_link">
-    <img src="https://img.shields.io/badge/View_AWS_Certifications-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="AWS Certifications" />
+    <b>📁 View All AWS Certifications →</b>
   </a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS_Certified-10%2B_Certifications-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="10+ AWS Certifications" />
-</p>
+<p align="center">🏅 <b>10+ AWS Certifications</b> in Cloud Computing</p>
 
-<p align="center"><i>Click the badge above to view all certificates, hosted on Google Drive.</i></p>
+<p align="center"><i>Click above to open the full certificate folder on Google Drive.</i></p>
 
 ---
 
