@@ -77,7 +77,6 @@ A distributed file system built with FUSE, exposing operations over RPC.
 - Python, XML-RPC
 
 
-> 💡 Still need the FeedForward and FUSE repo links — send those over and I'll drop them in.
 
 ---
 
