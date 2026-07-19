@@ -50,7 +50,7 @@ I'm a **B.Tech Computer Science** student at **Graphic Era Hill University, Bhim
 Full-stack platform connecting restaurants with surplus food to customers, featuring dual restaurant/customer login and dynamic "rescue pricing."
 - Node.js, Express.js, MySQL, JWT, Socket.io, Razorpay, OpenAI API
 - React, Vite, Tailwind CSS with a custom design system
-- 🔗 Add your repo link here
+
 
 ### 📊 Customer Behaviour Analytics
 Data-driven dashboard uncovering customer purchasing patterns and behavioral insights.
@@ -75,7 +75,7 @@ Graph-based shortest path solver built for performance.
 ### 🗂️ FUSE Distributed File System
 A distributed file system built with FUSE, exposing operations over RPC.
 - Python, XML-RPC
-- 🔗 Add your repo link here
+
 
 > 💡 Still need the FeedForward and FUSE repo links — send those over and I'll drop them in.
 
@@ -100,7 +100,7 @@ A distributed file system built with FUSE, exposing operations over RPC.
   <img src="https://raw.githubusercontent.com/UtsavSuyal/UtsavSuyal/output/github-snake-dark.svg" alt="snake animation" />
 </p>
 
-> ⚠️ This snake needs a one-time GitHub Actions setup — instructions below.
+
 
 ---
 
