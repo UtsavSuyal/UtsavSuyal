@@ -33,12 +33,12 @@ I'm a **B.Tech Computer Science** student at **Graphic Era Hill University, Bhim
 ![Express.js](https://img.shields.io/badge/Express.js-000000.svg?style=for-the-badge&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-<img src="https://davidhwilliams.github.io/skill-icons-plus/icons/TailwindCSS-Dark.svg" height="28" valign="middle" alt="Tailwind CSS" /> <b>Tailwind CSS</b>
+<b>Tailwind CSS</b>
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-<img src="https://davidhwilliams.github.io/skill-icons-plus/icons/TensorFlow-Dark.svg" height="28" valign="middle" alt="TensorFlow" /> <b>TensorFlow</b>
-<img src="https://davidhwilliams.github.io/skill-icons-plus/icons/OpenCV-Dark.svg" height="28" valign="middle" alt="OpenCV" /> <b>OpenCV</b>
+<b>TensorFlow</b>
+<b>OpenCV</b>
 ![AWS](https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
 <b>Power BI</b>
 ![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
