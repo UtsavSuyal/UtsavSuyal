@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/UtsavSuyal">
-    <img src="https://readme-typing-svg.herokuapp.com/?size=24&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+%7C+Node.js+%26+React;Data+Analyst+%7C+Python+%2B+Power+BI;Machine+Learning+%7C+TensorFlow+%2B+OpenCV;AWS+Certified+%7C+10%2B+Certifications;Building+placement-ready+projects+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?size=24&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+%7C+Node.js+%26+React;Data+Analyst+%7C+Python+%2B+Power+BI;Machine+Learning+%7C+TensorFlow+%2B+OpenCV;AWS+Certified+%7C+30%2B+Certifications;Building+placement-ready+projects+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
