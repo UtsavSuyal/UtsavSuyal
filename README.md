@@ -19,7 +19,7 @@ I'm a **B.Tech Computer Science** student at **Graphic Era Hill University, Bhim
 - 💻 Full-stack web development with **Node.js, Express.js, React, Vite & Tailwind CSS**
 - 📊 Data analytics with **Python, Pandas, PostgreSQL & Power BI**
 - 🤖 Machine learning with **TensorFlow & OpenCV**
-- ☁️ **10+ AWS certifications** in cloud computing
+- ☁️ **30+ AWS certifications** in cloud computing
 - 🧭 Team Lead & Head of Events for tech conferences
 - 🎯 Currently sharpening DSA fundamentals and polishing my portfolio for campus placements
 
