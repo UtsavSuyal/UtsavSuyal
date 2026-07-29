@@ -93,12 +93,6 @@ Graph-based shortest path solver built for performance.
 - C++
 - 🔗 https://github.com/UtsavSuyal/ShortestDistance
 
-### 🗂️ FUSE Distributed File System
-A distributed file system built with FUSE, exposing operations over RPC.
-- Python, XML-RPC
-
-
----
 
 ## 📜 Certifications
 
