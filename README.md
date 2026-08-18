@@ -14,6 +14,7 @@
 
 ## 🌱 About Me
 
+
 I'm a **B.Tech Computer Science** student at **Graphic Era Hill University, Bhimtal** (2023–2027), currently in my final year and gearing up for placement season.
 
 - 💻 Full-stack web development with **Node.js, Express.js, React, Vite & Tailwind CSS**
